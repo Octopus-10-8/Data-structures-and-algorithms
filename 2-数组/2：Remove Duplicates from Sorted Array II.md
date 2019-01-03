@@ -9,7 +9,7 @@ you must do this by modifying the input array
 in-place with O(1) extra memory.
 ```
 
-![image](zy01.png)
+![image](https://raw.githubusercontent.com/Octopus-10-8/Data-structures-and-algorithms/master/img/zy01.png)
 
 ---
 
