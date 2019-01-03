@@ -9,7 +9,7 @@ you must do this by modifying the input array
 in-place with O(1) extra memory.
 ```
 
-![image](89859B52DF0E4183AC5CD1F3334CAB59)
+![image](zy01.png)
 
 ---
 
